@@ -4,5 +4,5 @@ Just run...
 
 	git clone git://github.com/cookrn/geddy-gen_tests.git
 	cd geddy-gen_tests
-	bundle test
+	bundle install
 	cucumber
